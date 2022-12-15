@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi-Horatti
 - 👀 I’m interested in WebDevelopment,Full_Stack_dev
-- 🌱 I’m currently learning MEAN Stack Dev
+- 🌱 I’m currently learning .Net(C#), Angular & MEAN Stack Dev
 - 💞️ I’m looking to collaborate on same in opensource contr.
 - 📫 How to reach me @ravi_horatti Twitter
 
